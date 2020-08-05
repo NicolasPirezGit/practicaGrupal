@@ -1,0 +1,31 @@
+
+     [
+      {
+        "id": "7456",
+        "nombre": "Cactus pequeño",
+        "precio": "$ 100",
+        "categoria": "Interior",
+        "description": "Cactus pequeño ideal para interior"
+      },
+      {
+        "id": "1098",
+        "nombre": "Helecho grande",
+        "precio": "$ 300",
+        "categoria": "Exterior",
+        "description": "Helecho grande ideal para exterior"
+      }, 
+      {
+        "id": "9454",
+        "nombre": "Begoña",
+        "precio": "$200",
+        "categoria": "Exterior",
+        "description": "Begoña roja para ambiente exterior"
+      },     
+      {
+        "id": "4388",
+        "nombre": "Petunia rosada",
+        "precio": "$ 150",
+        "categoria": "Interior",
+        "description": "Petuña rosada ideal para ambiente interior"
+      }
+    ]
